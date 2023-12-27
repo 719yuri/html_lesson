@@ -9,22 +9,29 @@
   width: 100%;
   height: 200px;
   background-image: url(img/box1.jpg);
+  background-size: cover;
+  background-position: right;
 }
 
 .img_2 {
   width: 100%;
   height: 200px;
   background-image: url(img/box2.jpg);
+  background-position: left center;
+
 }
 
 .img_3 {
   width: 100%;
   height: 200px;
   background-image: url(img/box3.jpg);
+  background-position: center;
 }
 
 .img_4 {
   width: 100%;
   height: 200px;
   background-image: url(img/box4.jpg);
+  background-size: cover;
+  background-position: right center;
 }
